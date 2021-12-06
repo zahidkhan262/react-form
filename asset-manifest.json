@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/react-form/static/css/main.6ebbc2b0.chunk.css",
+    "main.js": "/github.io/react-form/static/js/main.b4f36f58.chunk.js",
+    "main.js.map": "/github.io/react-form/static/js/main.b4f36f58.chunk.js.map",
+    "runtime-main.js": "/github.io/react-form/static/js/runtime-main.35d6c6b9.js",
+    "runtime-main.js.map": "/github.io/react-form/static/js/runtime-main.35d6c6b9.js.map",
+    "static/js/2.f7ce1f2c.chunk.js": "/github.io/react-form/static/js/2.f7ce1f2c.chunk.js",
+    "static/js/2.f7ce1f2c.chunk.js.map": "/github.io/react-form/static/js/2.f7ce1f2c.chunk.js.map",
+    "static/js/3.afc25481.chunk.js": "/github.io/react-form/static/js/3.afc25481.chunk.js",
+    "static/js/3.afc25481.chunk.js.map": "/github.io/react-form/static/js/3.afc25481.chunk.js.map",
+    "index.html": "/github.io/react-form/index.html",
+    "static/css/main.6ebbc2b0.chunk.css.map": "/github.io/react-form/static/css/main.6ebbc2b0.chunk.css.map",
+    "static/js/2.f7ce1f2c.chunk.js.LICENSE.txt": "/github.io/react-form/static/js/2.f7ce1f2c.chunk.js.LICENSE.txt",
+    "static/media/envelope-solid.80b23b18.svg": "/github.io/react-form/static/media/envelope-solid.80b23b18.svg",
+    "static/media/key-solid.f58eb841.svg": "/github.io/react-form/static/media/key-solid.f58eb841.svg",
+    "static/media/user-solid.93b18c33.svg": "/github.io/react-form/static/media/user-solid.93b18c33.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d6c6b9.js",
+    "static/js/2.f7ce1f2c.chunk.js",
+    "static/css/main.6ebbc2b0.chunk.css",
+    "static/js/main.b4f36f58.chunk.js"
+  ]
+}
