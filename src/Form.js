@@ -1,19 +1,13 @@
-import React, { useState } from 'react';
+import React from 'react';
 import UserIcon from './svg/user-solid.svg'
 import KeyIcon from './svg/key-solid.svg'
 import MailIcon from './svg/envelope-solid.svg';
 
 
 
-const Form = () => {
+const Form = ({ showPass, setShowPass, inputField, setInputField }) => {
 
-    const [showPass, setShowPass] = useState(false);
 
-    const [inputField, setInputField] = useState({
-        name: "",
-        email: "",
-        password: ""
-    });
 
 
     const inpuntEvent = (e) => {
@@ -32,7 +26,8 @@ const Form = () => {
 
     const onSubmit = (e) => {
         e.preventDefault();
-        setInputField(inputField)
+        setInputField(inputField);
+
     }
 
 
