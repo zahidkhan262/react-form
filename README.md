@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+applink: https://zahidkhan262.github.io/react-form/
+applink-2 (netlify):https://sad-mclean-5cad55.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
